@@ -1,4 +1,4 @@
-package com.example.aad_repaso_1_eval.Tema1.com.example.aad_repaso_1_eval.ClasesGenericasSimples;
+package com.example.aad_repaso_1_eval.Tema1.ClasesGenericasSimples;
 
 /*
 Ejercicio 3: La Clase Impresora<T>

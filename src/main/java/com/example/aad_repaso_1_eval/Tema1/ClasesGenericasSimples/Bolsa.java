@@ -1,4 +1,4 @@
-package com.example.aad_repaso_1_eval.Tema1.com.example.aad_repaso_1_eval.ClasesGenericasSimples;
+package com.example.aad_repaso_1_eval.Tema1.ClasesGenericasSimples;
 /*
 Ejercicio 1: La Clase Bolsa<T>
 Crea una clase llamada Bolsa que pueda guardar un objeto de cualquier tipo.

@@ -1,4 +1,4 @@
-package com.example.aad_repaso_1_eval.Tema1.com.example.aad_repaso_1_eval.ClasesGenericasMultiples;
+package com.example.aad_repaso_1_eval.Tema1.ClasesGenericasMultiples;
 
 import java.util.ArrayList;
 
